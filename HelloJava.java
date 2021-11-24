@@ -1,6 +1,7 @@
-class HelloJava{
+package main
+class HelloJava {
   public static void main (Strint [] args) {
-    System.out.println("Hello Java");
+    System.out.println ("Hello Java");
   }
 }
   
